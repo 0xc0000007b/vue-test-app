@@ -1,5 +1,5 @@
 <template>
-  <header>
+  <header class="fixed">
     <div class="logo">logo</div>
     <div class="buttons">
 

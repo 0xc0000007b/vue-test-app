@@ -1,15 +1,15 @@
 <template>
-<aside>
+<div class="left__side">
 
-</aside>
+</div>
 </template>
 
 <script>
 export default {
-  name: "PageSidebar"
+  name: "app-sidebar"
 }
 </script>
 
-<style scoped>
-
+<style lang="sass">
+@import "../styles/index.sass"
 </style>

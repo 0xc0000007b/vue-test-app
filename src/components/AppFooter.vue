@@ -1,5 +1,5 @@
 <template>
-<footer>
+<footer class="app__footer">
   <app-button class="btn footer__btn" href="tel:+79672509924">Связаться со мной</app-button>
 </footer>
   <div class="copyright">Made by <span>Me</span></div>
