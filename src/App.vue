@@ -7,8 +7,7 @@
       </app-header>
 
       <div class="main">
-        <post-list v-if="$route.path.includes('/')"></post-list>
-        <post v-if="$route.path == '/post'"></post>
+        <post-list></post-list>
       </div>
       <app-footer>
 
