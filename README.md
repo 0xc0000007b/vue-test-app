@@ -1,19 +1,18 @@
-# vue-tests
+# 🗒ReadMe🗒
+##  Ребята, при загрузке своих домашек, указывайте:
 
-## Project setup
-```
-yarn install
-```
+1️⃣. 📄 для какого 📑
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+2️⃣.2. 📚номер задания 
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Дополнительные примечания
+#### Желательно на будущее заведите себе гит-страницу
+##### пример такого дела
+[My Git](https://github.com/Reversabled)
+![build](https://github.com/Reversabled/badge/build-passed-brightgreen.svg)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+###### Чтобы воспользоваться гитом, надо его установить
+[This link](https://git-scm.com/downloads)
+
+
+
