@@ -44,17 +44,17 @@
 
 ## То же самое, но по-русски
 
-0. установи node.js ссылка в картинке выше
+1. установи node.js ссылка в картинке выше
 
-1. ✅ запустите `npm -v` версию узла на вашем ПК
+2. ✅ запустите `npm -v` версию узла на вашем ПК
 
-2. ✅ создать проект
+3. ✅ создать проект
 
-3. ✅ откройте его в ypur IDE и запустите npm init для создания файла package.json
+4. ✅ откройте его в ypur IDE и запустите npm init для создания файла package.json
 
-4. ✅ запустить `npm i gulp-sass gulp gulp-filu-include gulp gulp-html gulp-clean -D` для установки всех расширений
+5. ✅ запустить `npm i gulp-sass gulp gulp-filu-include gulp gulp-html gulp-clean -D` для установки всех расширений
 
-5. ✅ создайте gulpfile.js в корневом каталоге пакета
+6. ✅ создайте gulpfile.js в корневом каталоге пакета
 
 ### или используйте npx react-create-app . для создания реагирующего приложения и используйте WebPack или vue create .
 ✅ запустить `npm i sass` для установки sass/scss
